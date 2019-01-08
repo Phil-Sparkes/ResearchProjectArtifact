@@ -1,0 +1,6 @@
+C:\Users\Phil\Documents\HeatmapProject\C#\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Phil\Documents\HeatmapProject\C#\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Phil\Documents\HeatmapProject\C#\Client\Client\bin\Debug\Client.exe
+C:\Users\Phil\Documents\HeatmapProject\C#\Client\Client\bin\Debug\Client.pdb
+C:\Users\Phil\Documents\HeatmapProject\C#\Client\Client\obj\Debug\Client.exe
+C:\Users\Phil\Documents\HeatmapProject\C#\Client\Client\obj\Debug\Client.pdb
