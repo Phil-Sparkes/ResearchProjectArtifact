@@ -118,7 +118,6 @@ namespace Server
             var myThread = new Thread(acceptClientThread);
             myThread.Start(serverClient);
             String messageToRead = "";
-
             byte[] buffer = new byte[4096];
 
             while (true)
@@ -141,16 +140,21 @@ namespace Server
                         // extract coordinates
                         String singleMessage = substrings[i];
                         String[] coordinateValues = singleMessage.Split(',');
-                        float xValue = float.Parse(coordinateValues[0]);
-                        float yValue = float.Parse(coordinateValues[1]);
+
+                        string table = "table_" + coordinateValues[0];
+                        float xValue = float.Parse(coordinateValues[1]);
+                        float yValue = float.Parse(coordinateValues[2]);
+                        int player = int.Parse(coordinateValues[3]);
                         messageToRead = "";
                         Console.WriteLine(xValue + ", " + yValue);
 
                         // insert to table
-                        var sql = "insert into " + "table_hitLocation" + " (x, y) values ";
+                        var sql = "insert into " + table + " (x, y) values ";
                         sql += "('" + xValue + "'";
                         sql += ",";
                         sql += "'" + yValue + "'";
+                        sql += ",";
+                        sql += "'" + player + "'";
                         sql += ")";
                         command = new sqliteCommand(sql, conn);
                         command.ExecuteNonQuery();

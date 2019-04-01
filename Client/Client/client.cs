@@ -21,7 +21,7 @@ namespace Client
             try
             {
                 //Pass the file path and file name to the StreamReader constructor
-                StreamReader sr = new StreamReader("../../../../../CementCrow/DataFile.txt");
+                StreamReader sr = new StreamReader("DataFile.txt");
 
                 //Read the first line of text
                 line = sr.ReadLine();
