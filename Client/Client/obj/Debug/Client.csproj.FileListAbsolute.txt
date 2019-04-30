@@ -11,3 +11,9 @@ D:\ResearchProjectArtifact\Client\Client\obj\Debug\Client.csprojAssemblyReferenc
 D:\ResearchProjectArtifact\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 D:\ResearchProjectArtifact\Client\Client\obj\Debug\Client.exe
 D:\ResearchProjectArtifact\Client\Client\obj\Debug\Client.pdb
+E:\ResearchProjectArtifact\Client\Client\bin\Debug\Client.exe.config
+E:\ResearchProjectArtifact\Client\Client\obj\Debug\Client.exe
+E:\ResearchProjectArtifact\Client\Client\obj\Debug\Client.pdb
+E:\ResearchProjectArtifact\Client\Client\bin\Debug\Client.exe
+E:\ResearchProjectArtifact\Client\Client\bin\Debug\Client.pdb
+E:\ResearchProjectArtifact\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

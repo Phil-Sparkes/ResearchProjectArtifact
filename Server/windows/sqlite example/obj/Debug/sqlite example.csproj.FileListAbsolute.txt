@@ -81,3 +81,20 @@ F:\C#\Server\windows\sqlite example\bin\Debug\EntityFramework.SqlServer.xml
 F:\C#\Server\windows\sqlite example\bin\Debug\System.Data.SQLite.xml
 F:\C#\Server\windows\sqlite example\bin\Debug\System.Data.SQLite.dll.config
 F:\C#\Server\windows\sqlite example\obj\Debug\sqlite example.csproj.CopyComplete
+E:\ResearchProjectArtifact\Server\windows\sqlite example\bin\Debug\sqlite example.exe.config
+E:\ResearchProjectArtifact\Server\windows\sqlite example\bin\Debug\sqlite example.exe
+E:\ResearchProjectArtifact\Server\windows\sqlite example\bin\Debug\sqlite example.pdb
+E:\ResearchProjectArtifact\Server\windows\sqlite example\bin\Debug\EntityFramework.dll
+E:\ResearchProjectArtifact\Server\windows\sqlite example\bin\Debug\EntityFramework.SqlServer.dll
+E:\ResearchProjectArtifact\Server\windows\sqlite example\bin\Debug\System.Data.SQLite.dll
+E:\ResearchProjectArtifact\Server\windows\sqlite example\bin\Debug\System.Data.SQLite.EF6.dll
+E:\ResearchProjectArtifact\Server\windows\sqlite example\bin\Debug\System.Data.SQLite.Linq.dll
+E:\ResearchProjectArtifact\Server\windows\sqlite example\bin\Debug\EntityFramework.xml
+E:\ResearchProjectArtifact\Server\windows\sqlite example\bin\Debug\EntityFramework.SqlServer.xml
+E:\ResearchProjectArtifact\Server\windows\sqlite example\bin\Debug\System.Data.SQLite.xml
+E:\ResearchProjectArtifact\Server\windows\sqlite example\bin\Debug\System.Data.SQLite.dll.config
+E:\ResearchProjectArtifact\Server\windows\sqlite example\obj\Debug\sqlite example.csprojAssemblyReference.cache
+E:\ResearchProjectArtifact\Server\windows\sqlite example\obj\Debug\sqlite example.csproj.CoreCompileInputs.cache
+E:\ResearchProjectArtifact\Server\windows\sqlite example\obj\Debug\sqlite example.csproj.CopyComplete
+E:\ResearchProjectArtifact\Server\windows\sqlite example\obj\Debug\sqlite example.exe
+E:\ResearchProjectArtifact\Server\windows\sqlite example\obj\Debug\sqlite example.pdb
